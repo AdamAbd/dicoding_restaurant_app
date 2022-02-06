@@ -28,6 +28,14 @@ class PageRouter {
           );
         }
 
+      case PagePath.detail:
+        {
+          return _buildRouter(
+            settings: settings,
+            builder: (args) => const DetailPage(),
+          );
+        }
+
       default:
         return null;
     }

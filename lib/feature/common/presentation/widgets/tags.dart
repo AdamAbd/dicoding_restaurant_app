@@ -1,12 +1,12 @@
 import 'package:dicoding_restaurant_app/feature/feature.dart';
 import 'package:flutter/material.dart';
 
-class CategoryTags extends StatelessWidget {
+class Tags extends StatelessWidget {
   final String _icon;
   final String _title;
   final bool _isActive;
 
-  const CategoryTags({
+  const Tags({
     Key? key,
     required String icon,
     required String title,
