@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:dicoding_restaurant_app/feature/feature.dart';
 import 'package:flutter/material.dart';
 
