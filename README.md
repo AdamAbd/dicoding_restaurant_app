@@ -1,4 +1,6 @@
-# dicoding_restaurant_app
+# Eatly
+
+[![Codemagic build status](https://api.codemagic.io/apps/61ffedf4ce959059c6489bb7/61ffedf4ce959059c6489bb6/status_badge.svg)](https://codemagic.io/apps/61ffedf4ce959059c6489bb7/61ffedf4ce959059c6489bb6/latest_build)
 
 A new Flutter project.
 
